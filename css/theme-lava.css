@@ -665,12 +665,7 @@ nav .container {
   -webkit-transform: translate3d(-300px, 0px, 0px);
   -moz-transform: translate3d(-300px, 0px, 0px);
 }
-.sidebar-content {
-  background: #333333;
-  position: relative;
-  z-index: 9999;
-  padding-bottom: 1px;
-}
+
 .widget {
   margin-bottom: 24px;
   padding: 0px 24px;
@@ -715,12 +710,7 @@ nav .container {
 .instagram-sidebar {
   overflow-y: auto;
 }
-.sidebar-content .copy-text {
-  position: absolute;
-  bottom: 32px;
-  color: rgba(255, 255, 255, 0.5);
-  font-size: 12px;
-}
+
 .copy-text-box {
   position: relative;
   height:100%;
